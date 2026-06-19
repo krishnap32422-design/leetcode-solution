@@ -6,9 +6,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0875-koko-eating-bananas/) | Medium |
 <!---LeetCode Topics End-->
