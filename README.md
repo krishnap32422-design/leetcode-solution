@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0015-3sum](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0015-3sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0162-find-peak-element/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0015-3sum/) | Medium |
 | [0169-majority-element](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -61,5 +63,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
