@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0018-4sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 ## Counting
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Quicksort
