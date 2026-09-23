@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishnap32422-design/leetcode-solution/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/krishnap32422-design/leetcode-solution/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/krishnap32422-design/leetcode-solution/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/krishnap32422-design/leetcode-solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0169-majority-element/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/krishnap32422-design/leetcode-solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/krishnap32422-design/leetcode-solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 <!---LeetCode Topics End-->
