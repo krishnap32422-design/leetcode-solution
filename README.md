@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/krishnap32422-design/leetcode-solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishnap32422-design/leetcode-solution/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
